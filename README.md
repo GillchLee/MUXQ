@@ -51,5 +51,3 @@ This runs all combinations automatically:
 <p align="center">
   <img src="./MUXQ/muxq%20white%20wall.png" alt="MUXQ Structure" width="900">
 </p>
-
-<img width="1230" height="808" alt="muxq_structure" src="https://github.com/user-attachments/assets/23226190-1995-4a7f-84c4-3f458fe36478" />
