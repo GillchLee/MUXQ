@@ -41,8 +41,12 @@ This runs all combinations automatically:
 - Modes: per-tensor, per-vector
 - Total: 30 experiments
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8fd02ef2-cc66-4c87-a6ef-9a93c89b0c1d"
+       alt="muxq_performance"
+       width="650">
+</p>
 
-<img width="649" height="210" alt="muxq_performance" src="https://github.com/user-attachments/assets/8fd02ef2-cc66-4c87-a6ef-9a93c89b0c1d" />
 
 
 
