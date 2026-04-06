@@ -13,6 +13,19 @@ Automated quantization experiments for GPT2 models.
 pip install -r requirements.txt
 ```
 
+```bash
+python eval_gpt2_muxq.py \
+  --model_path "openai-community/gpt2-large" \
+  --zscore 3.0 \
+  --out_mag 5.0 \
+  --split_exponent 2 \
+  --quant_method naive \
+  --quant_mode per-tensor \
+  --act_bits 8 \
+  --weight_bits 8 \
+  --device cuda
+```
+  
 ### Auto Run (Fixed Configuration)
 
 **3 models, per-tensor & per-vector, act_bits 4-8, weight_bits 8 (fixed)**
