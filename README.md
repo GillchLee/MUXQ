@@ -1,5 +1,11 @@
 MUXQ: Mixed-to-Uniform precision matriX Quantization via Low-Rank Outlier Decomposition
 
+
+paper is uploaded on arxiv 
+
+https://arxiv.org/abs/2604.04701
+
+
 python eval_gpt2_util2.py
 
 # MUXQ Quantization Experiment Suite
